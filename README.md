@@ -2,9 +2,7 @@
 ### This repo is for hackintosh on ASUS FX50J/X550JX
 
 
-### 虽然我目前已不再拥有FX50J，但如果有需要更新支持macOS10.14的话，可以在开issue，我会提供后续更新支持，要求：
-### 1.提供AIDA64全面的硬件报告。
-### 2.提供完整的ACPI文件。
+### 虽然我目前已不再拥有FX50J，但在Test分支中提供了10.14的EFI，需要的话可以测试安装。
 
 
 ## Changelog
